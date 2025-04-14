@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamed Aweys
-- 👀 I’m interested in data analysis for business and startups
+- 👀 I’m interested in analysing data for business and startups
 - 🌱 I’m currently learning python and power bi and i compeleted a course for tableau, MySQL and excel 
 - 💞️ I’m looking to collaborate on businesses who require data analysis and visualizaton 
 - 📫 How to reach me mohamedaweys1
